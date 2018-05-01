@@ -1,4 +1,8 @@
-﻿using Microsoft.AspNetCore.Builder;
+﻿using AutoMapper;
+using Developers.Business.Services.Developers;
+using Developers.DataAccess.Repositories.Developers;
+using Developers.DataAccess.UnitOfWork;
+using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -18,6 +22,10 @@ namespace DevelopersAPI
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc();
+            services.AddAutoMapper();
+            services.AddScoped<IDevelopersRepository, DevelopersRepository>();
+            services.AddScoped<IUnitOfWork, UnitOfWork>();
+            services.AddScoped<IDevelopersService, DevelopersService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

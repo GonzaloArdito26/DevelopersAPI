@@ -9,3 +9,11 @@ C:\Users\User\Desktop\Gonzalo\DevelopersAPI\DevelopersAPI\obj\Debug\netcoreapp2.
 C:\Users\User\Desktop\Gonzalo\DevelopersAPI\DevelopersAPI\obj\Debug\netcoreapp2.0\Developers.API.AssemblyInfo.cs
 C:\Users\User\Desktop\Gonzalo\DevelopersAPI\DevelopersAPI\obj\Debug\netcoreapp2.0\Developers.API.dll
 C:\Users\User\Desktop\Gonzalo\DevelopersAPI\DevelopersAPI\obj\Debug\netcoreapp2.0\Developers.API.pdb
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\DevelopersAPI\bin\Debug\netcoreapp2.0\Developers.Business.dll
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\DevelopersAPI\bin\Debug\netcoreapp2.0\Developers.DataAccess.dll
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\DevelopersAPI\bin\Debug\netcoreapp2.0\Developers.DataModel.dll
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\DevelopersAPI\bin\Debug\netcoreapp2.0\Developers.Business.pdb
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\DevelopersAPI\bin\Debug\netcoreapp2.0\Developers.DataAccess.pdb
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\DevelopersAPI\bin\Debug\netcoreapp2.0\Developers.DataModel.pdb
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\DevelopersAPI\bin\Debug\netcoreapp2.0\Developers.Model.dll
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\DevelopersAPI\bin\Debug\netcoreapp2.0\Developers.Model.pdb

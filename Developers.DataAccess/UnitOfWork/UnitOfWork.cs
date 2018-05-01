@@ -4,7 +4,7 @@ using System.Threading.Tasks;
 
 namespace Developers.DataAccess.UnitOfWork
 {
-    public class UnitOfWork : IUnitOfWork, IDisposable
+    public class UnitOfWork : IUnitOfWork
     {
         private readonly IDevelopersRepository _developersRepository;
 
@@ -29,15 +29,6 @@ namespace Developers.DataAccess.UnitOfWork
         public async void CompleteAsync()
         {
             await Task.Run(() => Complete());
-        }
-
-
-        public void Dispose()
-        {
-            // Lets the DI Container handle object lifetime
-
-            Dispose();
-            GC.SuppressFinalize(this);
         }
     }
 }
