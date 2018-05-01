@@ -13,9 +13,11 @@ namespace Developers.API2.Proxies
         /// Constructor
         /// </summary>
         /// <param name="restClient"></param>
-        public Proxy(IRestClient restClient)
+        public Proxy(IRestClient restClient, IConfiguration config)
         {
-            string uri = configuration["applicationUrl"];
+            configuration = config;
+
+            string uri = configuration["DevelopersAPIUri"];
 
             restClient.BaseUrl = new Uri(uri);
 

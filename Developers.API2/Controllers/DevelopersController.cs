@@ -30,7 +30,7 @@ namespace Developers.API2.Controllers
                 FirstName = d.FirstName,
                 LastName = d.LastName,
                 Age = d.Age,
-                Skills = d.Skills.Where(s => d.Skills.Where(sk => sk.Level >= 8).Select(sk => sk.Type).Contains(s.Type))
+                Skills = d.Skills.Where(sk => d.Skills.Where(skill => skill.Level >= 8).Select(skill => skill.Type).Contains(sk.Type))
             })
             .ToList();
         }
