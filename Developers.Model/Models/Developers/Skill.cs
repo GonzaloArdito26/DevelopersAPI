@@ -1,4 +1,4 @@
-﻿namespace Developers.DataModel.Models
+﻿namespace Developers.Model.Models.Developers
 {
     public class Skill
     {
