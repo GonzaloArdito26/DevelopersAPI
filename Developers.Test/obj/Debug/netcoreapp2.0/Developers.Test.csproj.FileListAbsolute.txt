@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\Developers.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\Developers.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\Developers.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\Developers.Test\bin\Debug\netcoreapp2.0\Developers.Test.deps.json
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\Developers.Test\bin\Debug\netcoreapp2.0\Developers.Test.runtimeconfig.json
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\Developers.Test\bin\Debug\netcoreapp2.0\Developers.Test.runtimeconfig.dev.json
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\Developers.Test\bin\Debug\netcoreapp2.0\Developers.Test.dll
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\Developers.Test\bin\Debug\netcoreapp2.0\Developers.Test.pdb
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\Developers.Test\obj\Debug\netcoreapp2.0\Developers.Test.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\Developers.Test\obj\Debug\netcoreapp2.0\Developers.Test.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\Developers.Test\obj\Debug\netcoreapp2.0\Developers.Test.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\Developers.Test\obj\Debug\netcoreapp2.0\Developers.Test.AssemblyInfo.cs
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\Developers.Test\obj\Debug\netcoreapp2.0\Developers.Test.dll
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\Developers.Test\obj\Debug\netcoreapp2.0\Developers.Test.pdb

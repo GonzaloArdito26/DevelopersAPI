@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\DevelopersAPI\bin\Debug\netcoreapp2.0\Developers.API.deps.json
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\DevelopersAPI\bin\Debug\netcoreapp2.0\Developers.API.runtimeconfig.json
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\DevelopersAPI\bin\Debug\netcoreapp2.0\Developers.API.runtimeconfig.dev.json
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\DevelopersAPI\bin\Debug\netcoreapp2.0\Developers.API.dll
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\DevelopersAPI\bin\Debug\netcoreapp2.0\Developers.API.pdb
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\DevelopersAPI\obj\Debug\netcoreapp2.0\Developers.API.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\DevelopersAPI\obj\Debug\netcoreapp2.0\Developers.API.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\DevelopersAPI\obj\Debug\netcoreapp2.0\Developers.API.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\DevelopersAPI\obj\Debug\netcoreapp2.0\Developers.API.AssemblyInfo.cs
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\DevelopersAPI\obj\Debug\netcoreapp2.0\Developers.API.dll
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\DevelopersAPI\obj\Debug\netcoreapp2.0\Developers.API.pdb

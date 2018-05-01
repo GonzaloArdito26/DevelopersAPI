@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\Developers.Business\bin\Debug\netcoreapp2.0\Developers.Business.deps.json
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\Developers.Business\bin\Debug\netcoreapp2.0\Developers.Business.dll
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\Developers.Business\bin\Debug\netcoreapp2.0\Developers.Business.pdb
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\Developers.Business\bin\Debug\netcoreapp2.0\Developers.DataAccess.dll
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\Developers.Business\bin\Debug\netcoreapp2.0\Developers.DataModel.dll
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\Developers.Business\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\Developers.Business\bin\Debug\netcoreapp2.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\Developers.Business\bin\Debug\netcoreapp2.0\Developers.DataAccess.pdb
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\Developers.Business\bin\Debug\netcoreapp2.0\Developers.DataModel.pdb
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\Developers.Business\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\Developers.Business\bin\Debug\netcoreapp2.0\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\Developers.Business\obj\Debug\netcoreapp2.0\Developers.Business.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\Developers.Business\obj\Debug\netcoreapp2.0\Developers.Business.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\Developers.Business\obj\Debug\netcoreapp2.0\Developers.Business.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\Developers.Business\obj\Debug\netcoreapp2.0\Developers.Business.AssemblyInfo.cs
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\Developers.Business\obj\Debug\netcoreapp2.0\Developers.Business.dll
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\Developers.Business\obj\Debug\netcoreapp2.0\Developers.Business.pdb

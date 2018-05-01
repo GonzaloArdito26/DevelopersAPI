@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\Developers.DataModel\bin\Debug\netcoreapp2.0\Developers.DataModel.deps.json
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\Developers.DataModel\bin\Debug\netcoreapp2.0\Developers.DataModel.dll
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\Developers.DataModel\bin\Debug\netcoreapp2.0\Developers.DataModel.pdb
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\Developers.DataModel\obj\Debug\netcoreapp2.0\Developers.DataModel.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\Developers.DataModel\obj\Debug\netcoreapp2.0\Developers.DataModel.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\Developers.DataModel\obj\Debug\netcoreapp2.0\Developers.DataModel.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\Developers.DataModel\obj\Debug\netcoreapp2.0\Developers.DataModel.AssemblyInfo.cs
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\Developers.DataModel\obj\Debug\netcoreapp2.0\Developers.DataModel.dll
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\Developers.DataModel\obj\Debug\netcoreapp2.0\Developers.DataModel.pdb

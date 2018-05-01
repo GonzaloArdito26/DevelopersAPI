@@ -24,10 +24,10 @@ namespace Developers.DataAccess.Repositories
             {
                 return JsonConvert.DeserializeObject<IEnumerable<T>>(File.ReadAllText(Path.Combine(_hostingEnvironment.ContentRootPath, $"{typeof(T).GetCustomAttributes(typeof(TableAttribute), true).Cast<TableAttribute>().Select(a => a.Name).FirstOrDefault()}.json")));
             }
-            catch(Exception ex)
+            catch
             {
                 // The business layer will catch the exception and map it to a custom one before throwing it to the service layer
-                throw ex; 
+                throw; 
             }
         }
 

@@ -197,6 +197,19 @@
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
       },
+      "Developers.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "dependencies": {
+          "Developers.DataModel": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Developers.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Developers.DataAccess.dll": {}
+        }
+      },
       "Developers.DataModel/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.0",
@@ -667,6 +680,11 @@
         "netstandard.library.nuspec"
       ]
     },
+    "Developers.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../Developers.DataAccess/Developers.DataAccess.csproj",
+      "msbuildProject": "../Developers.DataAccess/Developers.DataAccess.csproj"
+    },
     "Developers.DataModel/1.0.0": {
       "type": "project",
       "path": "../Developers.DataModel/Developers.DataModel.csproj",
@@ -675,6 +693,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
+      "Developers.DataAccess >= 1.0.0",
       "Developers.DataModel >= 1.0.0",
       "Microsoft.NETCore.App >= 2.0.0"
     ]
@@ -714,6 +733,9 @@
           "projectReferences": {
             "C:\\Users\\User\\Desktop\\Gonzalo\\DevelopersAPI\\Developers.DataModel\\Developers.DataModel.csproj": {
               "projectPath": "C:\\Users\\User\\Desktop\\Gonzalo\\DevelopersAPI\\Developers.DataModel\\Developers.DataModel.csproj"
+            },
+            "C:\\Users\\User\\Desktop\\Gonzalo\\DevelopersAPI\\Developers.DataAccess\\Developers.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\Gonzalo\\DevelopersAPI\\Developers.DataAccess\\Developers.DataAccess.csproj"
             }
           }
         }

@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\Developers.DataAccess\bin\Debug\netcoreapp2.0\Developers.DataAccess.deps.json
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\Developers.DataAccess\bin\Debug\netcoreapp2.0\Developers.DataAccess.dll
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\Developers.DataAccess\bin\Debug\netcoreapp2.0\Developers.DataAccess.pdb
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\Developers.DataAccess\bin\Debug\netcoreapp2.0\Developers.DataModel.dll
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\Developers.DataAccess\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\Developers.DataAccess\bin\Debug\netcoreapp2.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\Developers.DataAccess\bin\Debug\netcoreapp2.0\Developers.DataModel.pdb
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\Developers.DataAccess\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\Developers.DataAccess\bin\Debug\netcoreapp2.0\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\Developers.DataAccess\obj\Debug\netcoreapp2.0\Developers.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\Developers.DataAccess\obj\Debug\netcoreapp2.0\Developers.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\Developers.DataAccess\obj\Debug\netcoreapp2.0\Developers.DataAccess.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\Developers.DataAccess\obj\Debug\netcoreapp2.0\Developers.DataAccess.AssemblyInfo.cs
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\Developers.DataAccess\obj\Debug\netcoreapp2.0\Developers.DataAccess.dll
+C:\Users\User\Desktop\Gonzalo\DevelopersAPI\Developers.DataAccess\obj\Debug\netcoreapp2.0\Developers.DataAccess.pdb
