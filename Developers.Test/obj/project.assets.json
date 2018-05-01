@@ -5703,11 +5703,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\Gonzalo\\Projects\\DevelopersAPI\\Developers.Test\\Developers.Test.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Gonzalo\\DevelopersAPI\\Developers.Test\\Developers.Test.csproj",
       "projectName": "Developers.Test",
-      "projectPath": "C:\\Users\\User\\Desktop\\Gonzalo\\Projects\\DevelopersAPI\\Developers.Test\\Developers.Test.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\Gonzalo\\DevelopersAPI\\Developers.Test\\Developers.Test.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\Gonzalo\\Projects\\DevelopersAPI\\Developers.Test\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\Gonzalo\\DevelopersAPI\\Developers.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\Gonzalo\\Projects\\DevelopersAPI\\Developers.Model\\Developers.Model.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Gonzalo\\DevelopersAPI\\Developers.Model\\Developers.Model.csproj",
       "projectName": "Developers.Model",
-      "projectPath": "C:\\Users\\User\\Desktop\\Gonzalo\\Projects\\DevelopersAPI\\Developers.Model\\Developers.Model.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\Gonzalo\\DevelopersAPI\\Developers.Model\\Developers.Model.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\Gonzalo\\Projects\\DevelopersAPI\\Developers.Model\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\Gonzalo\\DevelopersAPI\\Developers.Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

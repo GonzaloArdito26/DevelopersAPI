@@ -12544,11 +12544,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\Gonzalo\\Projects\\DevelopersAPI\\DevelopersAPI\\Developers.API.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Gonzalo\\DevelopersAPI\\DevelopersAPI\\Developers.API.csproj",
       "projectName": "Developers.API",
-      "projectPath": "C:\\Users\\User\\Desktop\\Gonzalo\\Projects\\DevelopersAPI\\DevelopersAPI\\Developers.API.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\Gonzalo\\DevelopersAPI\\DevelopersAPI\\Developers.API.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\Gonzalo\\Projects\\DevelopersAPI\\DevelopersAPI\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\Gonzalo\\DevelopersAPI\\DevelopersAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

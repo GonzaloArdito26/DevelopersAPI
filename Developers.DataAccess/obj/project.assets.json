@@ -689,11 +689,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\Gonzalo\\Projects\\DevelopersAPI\\Developers.DataAccess\\Developers.DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Gonzalo\\DevelopersAPI\\Developers.DataAccess\\Developers.DataAccess.csproj",
       "projectName": "Developers.DataAccess",
-      "projectPath": "C:\\Users\\User\\Desktop\\Gonzalo\\Projects\\DevelopersAPI\\Developers.DataAccess\\Developers.DataAccess.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\Gonzalo\\DevelopersAPI\\Developers.DataAccess\\Developers.DataAccess.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\Gonzalo\\Projects\\DevelopersAPI\\Developers.DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\Gonzalo\\DevelopersAPI\\Developers.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -712,8 +712,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\User\\Desktop\\Gonzalo\\Projects\\DevelopersAPI\\Developers.DataModel\\Developers.DataModel.csproj": {
-              "projectPath": "C:\\Users\\User\\Desktop\\Gonzalo\\Projects\\DevelopersAPI\\Developers.DataModel\\Developers.DataModel.csproj"
+            "C:\\Users\\User\\Desktop\\Gonzalo\\DevelopersAPI\\Developers.DataModel\\Developers.DataModel.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\Gonzalo\\DevelopersAPI\\Developers.DataModel\\Developers.DataModel.csproj"
             }
           }
         }
