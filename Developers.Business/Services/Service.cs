@@ -2,10 +2,8 @@
 
 namespace Developers.Business.Services
 {
-    public class BaseService : IBaseService
+    public class BaseService : IService
     {
-        // TODO: Should have a logger
-
         protected IUnitOfWork unitOfWork;
 
         public BaseService() { }        

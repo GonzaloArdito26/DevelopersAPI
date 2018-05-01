@@ -4,7 +4,7 @@ using System.Threading.Tasks;
 
 namespace Developers.Business.Services.Developers
 {
-    public interface IDevelopersService : IBaseService
+    public interface IDevelopersService : IService
     {
         IEnumerable<Developer> ReadAll();
         Task<IEnumerable<Developer>> ReadAllAsync();

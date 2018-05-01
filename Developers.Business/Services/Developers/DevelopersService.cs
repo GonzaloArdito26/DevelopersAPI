@@ -8,7 +8,6 @@ namespace Developers.Business.Services.Developers
 {
     public class DevelopersService: BaseService, IDevelopersService
     {
-        // TODO: Should inject a Logger
         public DevelopersService(IUnitOfWork uOw)
         {
             unitOfWork = uOw;
