@@ -4,6 +4,6 @@ namespace Developers.DataAccess.Repositories.Developers
 {
     public interface IDevelopersRepository: IRepository<Developer>
     {
-
+        
     }
 }

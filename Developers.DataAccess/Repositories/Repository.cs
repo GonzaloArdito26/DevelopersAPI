@@ -26,8 +26,7 @@ namespace Developers.DataAccess.Repositories
             }
             catch(Exception ex)
             {
-                // TODO: Add Excepion logging
-                // TODO: Throw custom exception
+                // The business layer will catch the exception and map it to a custom one before throwing it to the service layer
                 throw ex; 
             }
         }
